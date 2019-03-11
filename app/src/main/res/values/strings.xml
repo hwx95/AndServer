@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndServer</string>
+
+    <string name="start_server">Start Server</string>
+    <string name="stop_server">Stop Server</string>
+    <string name="start_browse">Open in browser</string>
+
+    <string name="server_stop_succeed">The server has stopped.</string>
+    <string name="server_ip_error">Did not get the server IP address.</string>
+</resources>
